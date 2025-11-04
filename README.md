@@ -1,2 +1,2 @@
-# RedHood
-내일배움캠프 10조 프로젝트 RedHood 스크립트 저장소입니다.
+# BC_FinalProject
+내배캠 11기 최종 프로젝트
