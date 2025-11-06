@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=1E1E1E&height=180&section=header&text=RED%20HOOD&fontSize=90&&fontColor=D32F2F&fontAlign=70)
-![5](https://github.com/user-attachments/assets/daa48c1d-6ebd-4163-a6cf-d45dc895affe)
+<img width="2000" height="875" alt="Image" src="https://github.com/user-attachments/assets/420c3a0f-be8d-43f3-995e-c4941158eec6" />
 
-
-## 프로젝트 소개
+## 🚀 프로젝트 소개
 > **이런, RedHood가 게임 세상에 빠져버렸습니다!  
 RedHood가 무사히 탈출할 수 있게 도와주세요!**
 
@@ -19,7 +17,7 @@ ${\textsf{\color{red}RED HOOD}}$는 **2D 플랫포머 로그라이크** 게임�
 > 플랫폼: PC
 </br>
 
-### 프로젝트 개요 및 목표
+### 🎯 프로젝트 개요 및 목표
 ${\textsf{\color{red}RED HOOD}}$는 **로그라이크** 게임으로 같은 던전을 반복 진행하여 목표를 달성하는 게임입니다. 
 때문에 플레이어가 같은 구간을 반복 진행 하더라도 지루한 경험의 폭을 줄이는 것이 목표입니다.
 
@@ -31,16 +29,33 @@ ${\textsf{\color{red}RED HOOD}}$는 **로그라이크** 게임으로 같은 던�
 3. 차별화
     - 플레이어와 운과 선택은 게임의 경험을 변화 시킵니다. 저희는 플레이어의 선택을 존중하여 일정 시간동안 성장치를 극대화 시키는 각성 상태를 제공했습니다.
     - 랜덤 등장 요소는 플레이어의 반복 진행을 흥미롭게 만들지만, 플레이어가 게임 진행을 제어할 수 없다는 단점이 있습니다. 때문에 일부의 선택지를 제공하고, 시너지 효과를 추가해 플레이어가 운의 요소에서 일부 선택할 수 있게 되었습니다. 플레이어는 자신의 운에 맞는 전략을 세워야 합니다.
-
-### 플레이 영상 및 스크린샷
+---
+## 📸 플레이 영상 및 스크린샷
 [![Video Label](http://img.youtube.com/vi/yOj1v_jEO9o/0.jpg)](https://youtu.be/yOj1v_jEO9o)  
 
-아이템
-이미지링크 | 이미지링크 |
----|---|
+### 아이템
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/37cf65f2-e2d7-4b20-a5bd-789de356d3c1" align="center" width="32%">
+    <img src="https://github.com/user-attachments/assets/0ff68aad-29b2-4d99-b078-483a735c2ff0" align="center" width="32%">
+    <img src="https://github.com/user-attachments/assets/85f37f66-2d62-4450-9f3e-3345d08073cf" align="center" width="32%">
+</p>
+
+### **전투**
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ce34e9c7-d1c6-4107-8813-110c3f79df5d" align="center" width="32%">
+    <img src="https://github.com/user-attachments/assets/23f111bd-32d1-49bc-ba22-32d6470a173e" align="center" width="32%">
+    <img src="https://github.com/user-attachments/assets/e95f74d2-9bc7-4c56-b306-89f51adf4fc9" align="center" width="32%">
+</p>
+
+### **보스**
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/d0d3f781-e35f-45bd-b8f7-e00bf272689e"  align="center" width="32%">
+    <img src="https://github.com/user-attachments/assets/d359fb42-f736-4c4f-857e-a2f098dbd65c" align="center" width="32%">
+    <img src="https://github.com/user-attachments/assets/3b75eb40-d7b7-4c77-8e7d-0daa6c29b949" align="center" width="32%">
+</p>
 
 ---
-## 팀 소개
+## 👥 팀 소개
 |이름|역할|블로그|깃허브|연락처|담당|
 |------|---|---|---|---|---|
 |고승진|기획자, PM|-|-|rokid_@naver.com|플레이어, 스킬, 아이템, 시너지|
@@ -49,9 +64,7 @@ ${\textsf{\color{red}RED HOOD}}$는 **로그라이크** 게임으로 같은 던�
 |김남진|개발자|[블로그](https://velog.io/@jinnam/posts)|[깃허브](https://github.com/UserJin)|skawls1126@gmail.com|몬스터, 스테이지, 애널리틱스|
 |최우영|개발자|[블로그](https://www.notion.so/20dea92ed40680fdaeb1c85971f6b614)|[깃허브](https://github.com/wooyoung-1)|wooyoung7749@gmail.com|플레이어, UI, 연출, 폴리싱|
 ---
-## 주요 기능
----
-## 기술적인 도전 과제
+## ⚙️ 기술적인 도전 과제
 - Behavior Tree를 통한 보스 몬스터 AI 구조 설계
 - 몬스터의 플레이어 탐색 방식 최적화
 - 세분화된 몬스터 클래스 통합 및 전략 패턴 적용
@@ -64,7 +77,7 @@ ${\textsf{\color{red}RED HOOD}}$는 **로그라이크** 게임으로 같은 던�
 - 프리펩 기반의 동적 맵 관리
 - 동적 연출 이벤트 관리
 ---
-## 기술 스택
+## 💻 기술 스택
 ### Data
 - Addressable
 - Scriptable Object
@@ -101,7 +114,7 @@ ${\textsf{\color{red}RED HOOD}}$는 **로그라이크** 게임으로 같은 던�
     - Serena
 
 ---
-## 조작법
+## 🎮 조작법
 | 동작             | 키보드 입력     |
 |------------------|-----------------|
 | 이동             | 방향키          |
@@ -115,7 +128,7 @@ ${\textsf{\color{red}RED HOOD}}$는 **로그라이크** 게임으로 같은 던�
 | 메뉴 열기        | ESC             |
 
 ---
-## 링크
+## 🔗 링크
 [브로셔](https://www.notion.so/teamsparta/10-RedHood-2992dc3ef514803b8ac3d726e13bc1ac)
 
 [유저 테스트 결과보고서](https://www.notion.so/2a0a69a8b2d0800ea598fd5602ad098a?source=copy_link)
